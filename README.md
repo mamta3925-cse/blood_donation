@@ -16,7 +16,6 @@ Tech Stack:-
    Database: MySQL
     Server: Apache (XAMPP)
 
-
 Installation & Setup:-
      1. Clone the repository
        git clone https://github.com/mamta3925-cse/blood_donation.git
